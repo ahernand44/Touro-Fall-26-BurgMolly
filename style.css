@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+  min-height: 100vh;
+}
+.page{
+  background-color: darkcyan;
+  min-height: 80vh;
+}
+header{
+  background-color: aquamarine;
+}
+nav{
+  background-color: rgb(127, 179, 159);
+}
+main{
+  background-color: rgb(171, 136, 177);
+}
+aside{
+  background-color: lightpink;
+}
+footer{
+  background-color: lightslategray;
+}
